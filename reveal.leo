@@ -491,8 +491,47 @@
 </v>
 </v>
 </v>
+<v t="2015cp.20150925120130.2" a="E"><vh>Recovered Nodes</vh>
+<v t="2015cp.20150925120130.3"><vh>Recovered node "有關我的作業" from @clean simplest.html</vh>
+<v t="2015cp.20150925120130.4"><vh>old:有關我的作業</vh></v>
+<v t="2015cp.20150925120130.5"><vh>new:有關我的作業</vh></v>
+</v>
+</v>
 </vnodes>
 <tnodes>
+<t tx="2015cp.20150925120130.2"></t>
+<t tx="2015cp.20150925120130.3">(uncached) amd.20150915211351.7
+Diff...
+  &lt;!-- 以下為投影片 --&gt;
+  &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+  &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+  &lt;section&gt;
+-     &lt;h1&gt;有關我的作業&lt;/h1&gt;
++     &lt;h1&gt;有關我的作業yee&lt;/h1&gt;
+?               +++
+-     &lt;p&gt;學號姓名與日期&lt;/p&gt;		
++     &lt;p&gt;40423110余浩鋼9/25&lt;/p&gt;		
+  &lt;/section&gt;
+  	
+</t>
+<t tx="2015cp.20150925120130.4">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;有關我的作業yee&lt;/h1&gt;
+    &lt;p&gt;40423110余浩鋼9/25&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="2015cp.20150925120130.5">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;有關我的作業&lt;/h1&gt;
+    &lt;p&gt;學號姓名與日期&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
 <t tx="amd.20150913232631.1"></t>
 <t tx="amd.20150913232631.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
@@ -2021,8 +2060,8 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h1&gt;有關我的作業yee&lt;/h1&gt;
-    &lt;p&gt;40423110余浩鋼9/25&lt;/p&gt;		
+    &lt;h1&gt;有關我的作業&lt;/h1&gt;
+    &lt;p&gt;40423110余浩鋼&lt;/p&gt;		
 &lt;/section&gt;
 	
 </t>
